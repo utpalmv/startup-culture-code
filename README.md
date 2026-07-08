@@ -18,6 +18,7 @@ Forkable source for the Startup Culture Code framework.
 - Original author: https://uv.bio/
 - Origin archive: https://utpalmv.com/culture-code/
 - Source repository: https://github.com/utpalmv/startup-culture-code
+- Contact: opensrc@utpalmv.com
 
 ## License
 

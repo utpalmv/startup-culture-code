@@ -15,3 +15,5 @@ Thanks for helping shape Startup Culture Code.
 - keep the framework short and portable
 - preserve attribution
 - prefer one change per pull request when possible
+
+For questions about reuse, translation, or contributions, write to opensrc@utpalmv.com.

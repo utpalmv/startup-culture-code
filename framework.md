@@ -14,8 +14,8 @@ Culture is the product every startup builds for itself.
 3. Embrace Change
 4. Push Our Limits
 5. Pay Insane Attention to Detail
-6. Create World-Class Everything
-7. Listen to and Speak the Truth
+6. Listen to and Speak the Truth
+7. Create World-Class Everything
 
 ## Usage
 

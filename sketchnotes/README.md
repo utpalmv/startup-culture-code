@@ -2,8 +2,10 @@
 
 Use this folder for sketchnote versions of the framework.
 
-Suggested placeholders:
+## Current files
 
-- `framework-overview.png`
-- `seven-principles.png`
-- `origin-sketch.png`
+- `culture-code-sketchnote.jpg`
+- `culture-code-sketchnote.pdf`
+
+The PDF is the shareable reference version. The JPG is included for quick preview,
+embedding, and social use.

@@ -21,7 +21,7 @@ Forkable source for the Startup Culture Code framework.
 
 ## License
 
-This repository is dedicated to the public domain under CC0 1.0 Universal.
+This repository is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 See `LICENSE`.
 
 ## Contribution shape
